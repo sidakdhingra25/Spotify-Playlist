@@ -34,3 +34,18 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+## 🔑 Environment Variables  
+
+Create a `.env` file in the root directory and add the following:  
+
+```ini
+GEMINI_API_KEY=
+SPOTIFY_REDIRECT_URI=
+SPOTIFY_CLIENT_ID=
+SPOTIFY_CLIENT_SECRET=
+LAST_FM_API_KEY=
+LAST_FM_API_ENDPOINT=
+NEXT_PUBLIC_BASE_URL=
+
